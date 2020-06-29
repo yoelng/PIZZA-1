@@ -1,0 +1,25 @@
+body{
+    background-color: chartreuse;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+    font-family: 'Lobster', cursive;
+    padding-top: 80px;
+
+}
+h2{
+    font-family: 'Knewave', cursive;
+    color: navy;
+    text-align: center;
+
+}
+.btn btn-primary{
+    text-align: center;
+}
