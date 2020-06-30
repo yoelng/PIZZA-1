@@ -1,5 +1,7 @@
 body{
-    background-color: chartreuse;
+    background-image: url(img/wall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 a{
@@ -22,4 +24,7 @@ h2{
 }
 .btn btn-primary{
     text-align: center;
+}
+#pizza1{
+    background-image: url(img/wall.jpg);
 }
